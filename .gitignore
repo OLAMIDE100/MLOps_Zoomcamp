@@ -5,3 +5,5 @@ mlruns/
 *.db
 *.prefect
 models/
+*.Pipefile.lock
+notes.txt
