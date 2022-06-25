@@ -6,4 +6,4 @@ mlruns/
 *.prefect
 models/
 *.Pipefile.lock
-week_4/notes.txt
+*.txt
