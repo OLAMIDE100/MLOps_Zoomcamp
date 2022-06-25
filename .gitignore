@@ -6,4 +6,4 @@ mlruns/
 *.prefect
 models/
 *.Pipefile.lock
-*.txt
+note.txt
