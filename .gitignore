@@ -7,3 +7,5 @@ mlruns/
 models/
 *.Pipefile.lock
 note.txt
+*.csv
+*.parquet
