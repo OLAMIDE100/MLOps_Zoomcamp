@@ -9,3 +9,6 @@ models/
 note.txt
 *.csv
 *.parquet
+*__pycache__
+*.pytest_cache
+*.vscode

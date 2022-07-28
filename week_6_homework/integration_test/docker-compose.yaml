@@ -1,0 +1,11 @@
+version: '3.6'
+
+services:
+  localstack_s3:
+    container_name: localstack
+    image: localstack/localstack
+    ports:
+      - "4566:4566"
+    environment:
+      - SERVICES=s3
+      
